@@ -1,4 +1,4 @@
-# department
+# CollegeApp
 
 A new Flutter application.
 
